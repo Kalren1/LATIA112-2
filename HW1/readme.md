@@ -4,6 +4,7 @@
 
 https://data.gov.tw/dataset/26238
 
+
 Questions
 Q1. 全國各退學種類與人數？
 
