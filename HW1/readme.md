@@ -4,6 +4,8 @@
 
 https://data.gov.tw/dataset/26238
 
+執行檔: HW1.ipynb
+
 
 Questions:
 
