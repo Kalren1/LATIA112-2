@@ -16,5 +16,7 @@ Q5. 各學年度退學率？
 Q6. 各學校退學率?
 
 HW2
+
 url = [https://tw.linovelib.com/wenku/lastupdate_0_0_0_0_0_0_0_1_0.html]
+
 執行檔 = [https://github.com/Kalren1/LATIA112-2/blob/main/HW2/HW2.ipynb]
